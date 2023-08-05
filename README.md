@@ -13,6 +13,7 @@ Each day, I will add a new coding question to the repository with its solution i
 ## File Structure
 
 The repository is organized into directories for each day's coding question. Within each directory, you will find the coding question itself, the solution, and any additional resources used to solve the problem.
+
 daily-coding-questions/
 │
 ├── 2023-08-01/
@@ -27,8 +28,7 @@ daily-coding-questions/
 │
 └── 2023-08-31/
 ├── question.md
-└── solution.js
-
+└── solution.java
 
 ## Coding Language
 
